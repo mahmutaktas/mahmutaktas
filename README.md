@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I'm a full stack developer and my tech stack includes Python, Javascript, Flask, React, Nextjs, Docker, Redis, Elasticsearch and more.
 
 
