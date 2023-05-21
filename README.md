@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a full stack developer and my tech stack includes Python, Javascript, Flask, React, Nextjs, Docker, Redis, Elasticsearch and more.
+I am an experienced full stack developer with expertise in a diverse range of technologies. My skill set encompasses Python, JavaScript, Flask, React, Next.js, Docker, Redis, Elasticsearch, and much more. With a comprehensive understanding of these tools, I excel at building robust and scalable applications that meet the demands of modern web development.
 
 
 ## 🌐 Socials:
